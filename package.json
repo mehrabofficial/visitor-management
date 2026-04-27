@@ -1,0 +1,24 @@
+{
+  "name": "gatepulse-visitor-management",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "prisma": "latest",
+    "tailwindcss": "latest",
+    "eslint": "latest"
+  }
+}
